@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1459815144 source:f:\calculadora\calculadora\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1459815272 source:f:\calculadora\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1459287962 source:e:\calculadora\calculadora\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1459287462 source:e:\calculadora\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1459816358 source:c:\users\marcos\desktop\calculadora\calculadora\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1459720988 source:c:\users\marcos\desktop\calculadora\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1459090520 c:\users\marcos\desktop\calculadora\calculadora\funciones.h
+
+1459814644 f:\calculadora\calculadora\funciones.h
+
+1459978322 source:f:\calculadorafloat\calculadora\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1460073644 source:f:\calculadorafloat\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1459978270 f:\calculadorafloat\calculadora\funciones.h
+
+1459978322 source:e:\calculadorafloat\calculadora\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1459978356 source:e:\calculadorafloat\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1459978270 e:\calculadorafloat\calculadora\funciones.h
+
