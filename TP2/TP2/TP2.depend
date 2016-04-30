@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1461977070 source:f:\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"funciones.h"
+
+1461976450 f:\tp2\funciones.h
+
+1461978194 source:f:\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"funciones.h"
+
