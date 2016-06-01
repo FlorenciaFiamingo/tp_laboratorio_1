@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1464576586 source:f:\tp3\tp3\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"func.h"
+
+1464576738 f:\tp3\tp3\func.h
+
+1464576960 source:f:\tp3\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"func.h"
+
+1464781146 source:c:\users\marcos\desktop\tp3\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"func.h"
+
+1464822443 c:\users\marcos\desktop\tp3\tp3\func.h
+
